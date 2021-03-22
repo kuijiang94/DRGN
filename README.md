@@ -4,7 +4,7 @@ This package contains the Python implementation of "[Degrade is Upgrade: Learnin
 
 ## DRGN
 <p align="center">
-  <img src="DRGN/img/framework.pdf">
+  <img src="DRGN/img/framework.png">
 </p>
 
 ## Abstract
@@ -13,11 +13,12 @@ Low-light image enhancement aims to improve an image's visibility while keeping 
 ## Results
 ### Qualitative Results
 <p align="center">
-  <img src="DRGN/img/Qualitative Results1.pdf">
+  <img src="img/Qualitative Results1.png">
 </p>
 <p align="center">
-  <img src="DRGN/img/Qualitative Results2.pdf">
+  <img src="img/Qualitative Results2.png">
 </p>
+
 ## BibTeX
 ```
  @InProceedings{wang2018esrgan,
