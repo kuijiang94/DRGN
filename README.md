@@ -2,7 +2,7 @@
 
 This package contains the Python implementation of "[Degrade is Upgrade: Learning Degradation for Low-light Image Enhancement](https://arxiv.org/pdf/2103.10621.pdf)"
 
-##DRGN
+## DRGN
 <p align="center">
   <img src="figures/baboon.jpg">
 </p>
