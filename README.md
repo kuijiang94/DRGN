@@ -15,7 +15,7 @@ Low-light image enhancement aims to improve an image's visibility while keeping 
 ## BibTeX
 ```
  @InProceedings{wang2018esrgan,
-        author = {Kui Jiang1, Zhongyuan Wang, Zheng Wang, Peng Yi, Xiao Wang, Yansheng Qiu, Chen Chen, Chia-Wen Lin},
+        author = {Kui Jiang, Zhongyuan Wang, Zheng Wang, Peng Yi, Xiao Wang, Yansheng Qiu, Chen Chen, Chia-Wen Lin},
         title = {Degrade is Upgrade: Learning Degradation for Low-light Image Enhancement},
         booktitle = {arXiv},
         month = {March},
